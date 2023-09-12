@@ -2,7 +2,7 @@
 
 ## Overview
 
-In my capacity as the Production Manager within our market simulation team, I hold a critical role in orchestrating the organization and establishment of our company. My responsibilities encompass various facets of production and strategy development, making significant contributions to our overall success. Below is a summary of my responsibilities, actions taken in previous quarters, and expected contributions in the upcoming quarters as this simulation is still in process as of 09/01/2023.
+In my capacity as the Production Manager within our market simulation team, I hold a critical role in orchestrating the organization and establishment of our company. My responsibilities encompass various facets of production and strategy development, making significant contributions to our overall success. Below is a summary of my responsibilities, actions taken in previous quarters, and expected contributions in the upcoming quarters as this simulation is still in progress as of 09/11/2023.
 
 ## Responsibilities
 
@@ -94,4 +94,28 @@ Improved production productivity by managing operating capacity, adding new prod
 ### Quarter 6: Expand the Market Offering
 
 #### Product Assortment
-Expanded our assortment of brands by introducing new features developed by our research and
+Expanded our assortment of brands by introducing new features developed by our research and development (R&D) department.
+
+#### Market Expansion
+Continued market expansion through investments in advertising, sales personnel, new sales offices, and increased production capacity.
+
+### Quarter 7: Refine the Business Strategy
+
+#### Market Analysis
+Studied market, production, and financial data to determine opportunities for better meeting customer needs and delivering higher quality, lower cost products.
+
+#### Resource Allocation
+Refined the allocation of resources to gain a competitive edge.
+
+### Quarter 8-12: Big Push
+
+#### Tactical Refinement
+Continuously refined marketing, production, and financial tactics.
+
+#### Resource Optimization
+Fine-tuned resource allocation to surpass competitors.
+
+#### Seasonal Considerations
+Recognized the importance of strong performance in quarters 8 and 12 due to seasonality.
+
+This representation covers the complete scope of our market simulation journey. As a cohesive team, we will navigate this dynamic environment, making informed decisions and strategic adjustments to succeed in the market.
